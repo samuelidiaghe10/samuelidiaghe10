@@ -7,7 +7,7 @@
 
 <!-- Github Stats --->
 
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+
 <h3 align="center">Software Engineer sharing about my journey in tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelidiaghe10&label=Profile%20views&color=0e75b6&style=flat" alt="samuelidiaghe10" /> </p>
